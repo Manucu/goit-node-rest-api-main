@@ -157,4 +157,4 @@ Screenshots of Postman tests attached.
 
 ## 📝 License
 MIT © 2025
-Built with ❤️ by Alexander Andersen
+Built with ❤️ by Emanuel Niculai
